@@ -52,7 +52,7 @@ A Flutter application for managing reward points and redeeming rewards.
 1. **Clone or Download the Project**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nitidboss/Smile-Reward-App.git
    cd smile_reward_app
    ```
 
