@@ -107,7 +107,7 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 
 ### Ready-to-Install APK
 
-- **Location**: `build/app/outputs/flutter-apk/app-release.apk`
+- **Location**: `build/app/outputs/flutter-apk/app-release.apk` or `app-release.apk` in root project
 - **File Size**: ~19.5MB (20,449,006 bytes)
 - **Requirements**: Android 5.0+ (API level 21+)
 - **Installation**: No Flutter required on target device
